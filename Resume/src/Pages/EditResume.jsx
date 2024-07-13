@@ -41,7 +41,7 @@ const EditResume = () => {
   }
   return (
     <div>
-      <h1>Edit Resume</h1>
+      <h1>Edit Resume Clone</h1>
       <form onSubmit={handleSubmit}>
         <div className="container m-0">
           <h3>Contact Details</h3>

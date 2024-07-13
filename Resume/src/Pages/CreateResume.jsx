@@ -32,7 +32,7 @@ const CreateResume = () => {
 
     return (
         <div>
-            <h1>Create Resume</h1>
+            <h1>Create Resume Clone</h1>
             <form onSubmit={handleSubmit}>
                 <div className="container m-0">
                     <h3>Contact Details</h3>
